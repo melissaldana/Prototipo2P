@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Prototipo2P\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Prototipo2P\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.pdb

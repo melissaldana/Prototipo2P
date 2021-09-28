@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Ejecutable\Ejecutable\bin\Debug\Ejecutable.exe.config
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Ejecutable\Ejecutable\bin\Debug\Ejecutable.exe
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Ejecutable\Ejecutable\bin\Debug\Ejecutable.pdb
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Ejecutable\Ejecutable\bin\Debug\CapaVista.dll
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Ejecutable\Ejecutable\bin\Debug\CapaVista.pdb
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Ejecutable\Ejecutable\obj\Debug\Ejecutable.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Ejecutable\Ejecutable\obj\Debug\Ejecutable.Properties.Resources.resources
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Ejecutable\Ejecutable\obj\Debug\Ejecutable.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Ejecutable\Ejecutable\obj\Debug\Ejecutable.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Ejecutable\Ejecutable\obj\Debug\Ejecutable.csproj.CopyComplete
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Ejecutable\Ejecutable\obj\Debug\Ejecutable.exe
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Ejecutable\Ejecutable\obj\Debug\Ejecutable.pdb
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Ejecutable\Ejecutable\bin\Debug\CapaControlador.dll
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Ejecutable\Ejecutable\bin\Debug\CapaModelo.dll
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Ejecutable\Ejecutable\bin\Debug\CapaControlador.pdb
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Ejecutable\Ejecutable\bin\Debug\CapaModelo.pdb

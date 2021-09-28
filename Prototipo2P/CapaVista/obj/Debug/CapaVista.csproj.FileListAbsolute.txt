@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Prototipo2P\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Prototipo2P\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Prototipo2P\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Prototipo2P\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Prototipo2P\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Prototipo2P\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Prototipo2P\CapaVista\obj\Debug\CapaVista.MDI.resources
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Prototipo2P\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Prototipo2P\CapaVista\obj\Debug\CapaVista._0901_18_335_MELISSA_ALDANA_MDI.resources
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Prototipo2P\CapaVista\obj\Debug\CapaVista.Mantenimiento.resources
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Prototipo2P\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\HP\Desktop\SEGUNDO PARCIAL-AS2-MELISSA ALDANA\Prototipo2P\CapaVista\bin\Debug\CapaModelo.pdb
